@@ -1,0 +1,23 @@
+#: locale=en
+
+## Media
+
+### Title
+model_F703C596_E419_BA0D_41E2_0B72216CA9D9.label = B100
+model_D0D11995_DA01_71CB_41E1_5AEB42086794.label = poly
+model_C917DA09_DA06_F2D8_41E0_9589C07962CE.label = poly (2)
+
+## Skin
+
+### Button
+Button_CA0684AF_DA3F_77D8_41DD_5D5817ACB297.label = mesurer
+
+### Image
+Image_F4B55339_E428_5E06_41DD_E11BCAED6B38.url = skin/Image_F4B55339_E428_5E06_41DD_E11BCAED6B38_en.jpg
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
